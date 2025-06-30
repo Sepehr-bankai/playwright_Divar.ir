@@ -26,7 +26,7 @@ def extract_district(text, districts):
 
 
 #i used this address because we opened it via ["python -m path.main"]
-def combination(neighborhood, file_path="second_unfinished_prototype/divar.csv"):
+def combination(neighborhood, file_path="second(fixed)prototype/divar.csv"):
     districts = load_districts(file_path)
     cleaned_neighborhood = extract_district(neighborhood, districts)
     return cleaned_neighborhood
