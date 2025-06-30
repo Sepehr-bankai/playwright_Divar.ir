@@ -8,21 +8,23 @@ I'm just getting started and this project is in its **very early stages** — th
 
 ## 📂 File Structure
 
-Currently, there's just one main script:
+Currently, there's just two main script:
 
 - `first_attempt.py`: My initial version of the scraper.
+- `second(fixed)prototype`: My Last version of the scraper which was successful.
+- i have to add that there is a Folder called Districts, which has a .py that would help you gather districts and use it for the main script:).
 
 ## 📌 Notes
 
-- The script is not yet optimized or organized into modules.
-- There are no external folders or files yet, but that might change in the future.
+- The script is optimized and organized into modules.
 - I aim to add features, improve code quality, and explore better architecture as I learn.
 
 ## ✨ Goals
 
 - Learn how to use Playwright with Python.
 - Improve my scraping logic, selectors, and data extraction.
-- Eventually turn this into a modular and flexible tool with options and arguments.
+- I actually wanted to gather real data based on real events so that i could practice better and real.
+- Eventually turn this into a modular and flexible tool with options and arguments.(new update, i did it after 1 day)
 
 ---
 
