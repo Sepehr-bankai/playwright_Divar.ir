@@ -10,10 +10,10 @@ I'm just getting started and this project is in its **very early stages** — th
 
 Currently, there's just two main script:
 
-- `first_attempt.py`: My initial version of the scraper.
+- `first_attempt.py`: My initial version of the scraper.(deleted)
 - `second(fixed)prototype`: My Last version of the scraper which was successful.
 - i have to add that there is a Folder called Districts, which has a .py that would help you gather districts and use it for the main script:).
-
+- there is a File which you can use to clean the dataset that you Scraped.
 ## 📌 Notes
 
 - The script is optimized and organized into modules.
